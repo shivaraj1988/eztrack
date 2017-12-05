@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/accessors-smart-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/android-json-0.0.20131108.vaadin1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/aspectjweaver-1.8.10.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/assertj-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hibernate-core-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hibernate-entitymanager-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/hibernate-validator-5.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jackson-core-2.8.10.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jackson-databind-2.8.10.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/javax.transaction-api-1.2-b03.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jsonassert-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/json-path-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/json-smart-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/log4j-api-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/log4j-core-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/log4j-slf4j-impl-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/lombok-1.16.18.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/mockito-core-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/mysql-connector-java-5.1.44.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/ognl-3.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/snakeyaml-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-aop-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-aspects-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-beans-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-autoconfigure-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-devtools-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-aop-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-data-jpa-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-jdbc-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-log4j2-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-test-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-thymeleaf-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-tomcat-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-starter-web-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-test-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-boot-test-autoconfigure-1.5.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-context-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-core-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-data-commons-1.13.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-data-jpa-1.11.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-expression-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-jdbc-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-orm-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-security-config-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-security-core-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-security-web-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-test-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-tx-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-web-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/spring-webmvc-4.3.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/thymeleaf-2.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/thymeleaf-layout-dialect-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/thymeleaf-spring4-2.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/tomcat-embed-core-8.5.20.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/tomcat-embed-el-8.5.20.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/tomcat-embed-websocket-8.5.20.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/tomcat-jdbc-8.5.20.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/tomcat-juli-8.5.20.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/unbescape-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Default User/Desktop/Soft/Jars/javax.servlet-api-4.0.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
