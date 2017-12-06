@@ -19,7 +19,10 @@ public class LoginController {
 
 	@RequestMapping(value = { "/", "/home" }, method = RequestMethod.GET)
 	public String homePage(ModelMap model) {
+		
+		// ModelAndView modelview=new ModelAndView();
 		model.addAttribute("greeting", "Hi, Welcome to mysite");
+
 		return "welcome";
 	}
 
@@ -64,6 +67,7 @@ public class LoginController {
 		} else {
 			userName = principal.toString();
 		}
+
 		return userName;
 	}
 
